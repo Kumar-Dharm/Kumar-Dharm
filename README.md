@@ -1,3 +1,5 @@
+![logo](https://github.com/Kumar-Dharm/Kumar-Dharm/blob/main/GitHub_Banner.jpeg)
+
 <h1 align="center">Hi 👋, I'm Dharmendra Kumar</h1>
 <h3 align="center">A passionate Data Analyst and Data Scientist from India</h3>
 
