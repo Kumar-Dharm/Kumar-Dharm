@@ -49,7 +49,7 @@
 	<img src="https://camo.githubusercontent.com/e260052d80402ee1c3c47c1663259d0d952556860eec8eee4118a46b506f43a3/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2d6e65772e706e67" data-canonical-src="https://img.icons8.com/color/48/000000/gmail-new.png" style="max-width: 100%;"></a>
 	<a href="https://github.com/Kumar-Dharm">
 	<img src="https://camo.githubusercontent.com/c9de7ec1e54618f8d303a08f58ed31e66323aa28abbb1619c5783bc2735c785e/68747470733a2f2f696d672e69636f6e73382e636f6d2f77696e646f77732f34382f3030303030302f6769746875622e706e67" data-canonical-src="https://img.icons8.com/windows/48/000000/github.png" style="max-width: 100%;"></a>
-	<a href="https://www.hackerrank.com/@kdharmnp99" target="blank" rel="nofollow">
+	<a href="[https://www.hackerrank.com/@kdharmnp99](https://www.hackerrank.com/kdharmnp99)" target="blank" rel="nofollow">
 	<img src="https://camo.githubusercontent.com/dea8697850e5e6109164b354bdb17397540dbce064f62e0d537605ac7eb8bb2a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f342f34302f4861636b657252616e6b5f49636f6e2d3130303070782e706e67" width="44" height="44" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" style="max-width: 100%;"></a>
 </p>
 
