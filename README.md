@@ -35,7 +35,7 @@
 
 - 🔭 I’m currently working on **Project related to ML and Advance SQL**
 
-- 🌱 I’m currently learning **Advance SQL and ML**
+- 🌱 I’m currently learning **Advance SQL, ML and R Language**
 
 - 💬 Ask me about **Python, Advance SQL, MS Office, Power BI, Statistics, Machine Learning**
 
