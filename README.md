@@ -1,4 +1,4 @@
-![logo](https://github.com/Kumar-Dharm/Kumar-Dharm/blob/main/GitHub_Banner.jpeg)
+![GitHub_Banner](https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/fdbb63c8-fd69-4a2f-b13d-eab2c9ce9958)
 
 <h1 align="center">Hi 👋, I'm Dharmendra Kumar</h1>
 <h3 align="center">A passionate Data Analyst and Data Scientist from India</h3>
