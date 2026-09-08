@@ -3,7 +3,7 @@
 ========================= -->
 
 <p align="center">
-  <img src="https://github.com/asdf/Image_Gallery/assets/132021299/fdbb63c8-fd69-4a2f-b13d-eab2c9ce9958" alt="Dharmendra Kumar - GitHub Banner" width="100%" />
+  <img src="https://github.com/Kumar-Dharm/Image_Gallery/assets/132021299/fdbb63c8-fd69-4a2f-b13d-eab2c9ce9958" alt="Dharmendra Kumar - GitHub Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dharmendra Kumar</h1>
